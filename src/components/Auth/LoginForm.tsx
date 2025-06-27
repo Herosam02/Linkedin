@@ -203,7 +203,7 @@ const LoginForm: React.FC = () => {
             <p className="text-sm text-gray-600">
               New to LinkedIn?{' '}
               <Link to="/signup" className="font-medium text-blue-600 hover:text-blue-500">
-                Join now
+                Join now or Signup
               </Link>
             </p>
           </div>
